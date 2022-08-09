@@ -44,14 +44,3 @@ Go [**`here`**](https://github.com/virajdesai0309/SMath-Studio-Repo) if you aren
 
 Hello All! My name is Desai Viraj and I am the writter of these training modules. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
 
-
-## Some golden rules before you start coding
-• Don't get dis-hearted if your code is not running in first attempt.
-
-• Code to learn and learn to code
-
-• Try to consolidate code
-
-• Always write code so others can also understand (add comments)
-
-Hope this helps to start your journey with me 😄😄
